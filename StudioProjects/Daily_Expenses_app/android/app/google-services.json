@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601963955272",
+    "project_id": "lastappdump",
+    "storage_bucket": "lastappdump.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601963955272:android:9e607fdc6e4f476ab1c47d",
+        "android_client_info": {
+          "package_name": "com.example.home_expenses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJTAeNuO68rxW1TZ6E2vkHxjOI_6oWGIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

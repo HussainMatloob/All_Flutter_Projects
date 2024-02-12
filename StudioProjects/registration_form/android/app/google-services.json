@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "666693526504",
+    "project_id": "myappdatabase-47185",
+    "storage_bucket": "myappdatabase-47185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666693526504:android:227744bf1154938c84ba5d",
+        "android_client_info": {
+          "package_name": "com.example.DumProject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaoKtctmgLU4KHE9KkM5tPTCZAxiXkxPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666693526504:android:cc6f56e770a07ec884ba5d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaoKtctmgLU4KHE9KkM5tPTCZAxiXkxPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666693526504:android:5de9f1a8e352b89984ba5d",
+        "android_client_info": {
+          "package_name": "com.example.registration_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaoKtctmgLU4KHE9KkM5tPTCZAxiXkxPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
